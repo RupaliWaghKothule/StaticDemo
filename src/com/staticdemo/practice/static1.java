@@ -8,7 +8,7 @@ public class static1 {
 		
 	}
   static void x3() {
-	  
+	  System.out.println("entered in x3() method");
 	 int a=3;
 	 int b=9;
 	 System.out.println(a);

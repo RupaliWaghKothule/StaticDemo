@@ -17,10 +17,9 @@ public class StaticDemo {
 	      }
 	  static class Conditioncheck{
 		  void checkCondition() {
-		   //  System.out.println("Enter the Student requiredCity name");
+		  
 		     Scanner scanner=new Scanner(System.in);
-		    // String requiredcity=scanner.next();
-		    // System.out.println("Required city name is " +requiredcity);
+		   
 		    System.out.println("Enter student City name" );
 		String city  =  scanner.next();
 		System.out.println("Student city is>> " +city);
